@@ -1,0 +1,14 @@
+
+li a {
+    color: green;
+}
+
+/*make the links to polls green*/
+
+body {
+    background: white url("images/shrek.gif") no-repeat;
+    background-size: 984px 984px;
+}
+
+/* 900x900 */
+/*changes part of the background to the entire shrek movie compressed into a gif*/
